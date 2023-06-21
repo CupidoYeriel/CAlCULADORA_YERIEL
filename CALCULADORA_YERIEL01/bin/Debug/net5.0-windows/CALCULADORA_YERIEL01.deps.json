@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CALCULADORA_YERIEL01/1.0.0": {
+        "runtime": {
+          "CALCULADORA_YERIEL01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CALCULADORA_YERIEL01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
